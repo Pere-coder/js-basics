@@ -1,0 +1,1 @@
+simple fetchAPI using javascripts
